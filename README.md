@@ -11,12 +11,13 @@ In addition to my web development credentials, I am an experienced⭐ Salesforce
 - 🌟 My goal for the end of this year and into next year is to earn 2x Salesforce certifications: `Salesforce Certified Platform Developer I` and `Salesforce Certified CPQ Specialist`.
 - 🤝 Looking to collaborate on Salesforce Freelance or Contract projects in future, ideally ranging from 3 to 6 or 6 to 12 months.
 
-![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?style=flat&logo=Salesforce&logoColor=white)
+## 💻Tech Skills
+  ![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?style=flat&logo=Salesforce&logoColor=white)
 
 
 <!--
 **k-vodenicharov/k-vodenicharov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-## 💻Tech Skills
+
 
 Here are some ideas to get you started:
 
