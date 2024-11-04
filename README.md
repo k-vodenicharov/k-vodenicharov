@@ -12,7 +12,6 @@ In addition to my web development credentials, I am an experienced⭐ Salesforce
 - 🤝 Looking to collaborate on Salesforce Freelance or Contract projects in future, ideally ranging from 3 to 6 or 6 to 12 months.
 
 ## 💻Tech Skills
-[![My Skills](https://skillicons.dev/icons?i=#00A1E0)](https://skillicons.dev)
 <!--
 **k-vodenicharov/k-vodenicharov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
