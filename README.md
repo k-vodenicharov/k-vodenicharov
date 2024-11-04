@@ -3,7 +3,7 @@
 ## About me🦸‍♂️
 As a conscientious web developer👨‍💻, I have a track record for quickly learning🎓 new information and technologies. My expertise lies in thoroughly assessing an organization's requirements to create a strong ( ◡̀_◡́)ᕤ and effective web presence. I am well versed in all five critical stages📈 of web development: from initial information gathering🕵 and strategic planning📋 to development👨‍💻, testing and ongoing delivery🚚 and maintenance🛠️.
 
-In addition to my web development credentials, I am an experienced⭐ Salesforce🌩️ Consultant with 3 years of specialized experience. I excel at guiding👨‍🏫 clients through the Salesforce onboarding process and in using this powerful⚡ tool to improve their business operations. My skill set includes business analysis📊, Salesforce Integration🧩 as well as CRM Administration📂 and Development🔨, ensurin a comprehensive service⚙️ package for each client🤵.
+In addition to my web development credentials, I am an experienced⭐ 3x certified Salesforce🌩️ Specialist with 3 years of experience. I excel at guiding👨‍🏫 clients through the Salesforce onboarding process and in using this powerful⚡ tool to improve their business operations. My skill set includes business analysis📊, Salesforce Integration🧩 as well as CRM Administration📂 and Development🔨, ensurin a comprehensive service⚙️ package for each client🤵.
 
 
 ## 🎯Goals for 2024 Q4 and 2025th
