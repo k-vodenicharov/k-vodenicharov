@@ -9,7 +9,6 @@ In addition to my web development credentials, I am an experienced⭐ 3x certifi
 ## 🎯Targets for 2024 Q4 and 2025th
 - 🔭 Currently working on a `Domain-Driven-Design` project focused on `FinTech` implementation within a Salesforce organization.
 - 🌟 My goal for the end of this year and into next year is to earn 2x Salesforce certifications: `Salesforce Certified Platform Developer I` and `Salesforce Certified CPQ Specialist`.
-- 🤝 Looking to collaborate on Salesforce Freelance or Contract projects in future, ideally ranging from 3 to 6 or 6 to 12 months.
 
 ## 🤓SKILLS 
 
