@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Kiril Vodenicharov
-![LinkedInImage](https://github.com/user-attachments/assets/f3b0e864-98d7-4588-b8f6-6372f3c88837)
-![LinkedInMage](https://media.licdn.com/dms/image/v2/D4D16AQERrOI2stFVhQ/profile-displaybackgroundimage-shrink_350_1400/B4DZWkzXGbHYAY-/0/1742226683478?e=1747872000&v=beta&t=jy5c2J-Rf3gmMFW5GUww0O-WQ95uIfgwDDtyscbRa_Q)
+<!-- ![LinkedInImage](https://github.com/user-attachments/assets/f3b0e864-98d7-4588-b8f6-6372f3c88837)-->
+![LinkedInImage](https://media.licdn.com/dms/image/v2/D4D16AQERrOI2stFVhQ/profile-displaybackgroundimage-shrink_350_1400/B4DZWkzXGbHYAY-/0/1742226683478?e=1747872000&v=beta&t=jy5c2J-Rf3gmMFW5GUww0O-WQ95uIfgwDDtyscbRa_Q)
 
 ## About me🦸‍♂️
 As a conscientious web developer👨‍💻, I have a track record for quickly learning🎓 new information and technologies. My expertise lies in thoroughly assessing an organization's requirements to create a strong ( ◡̀_◡́)ᕤ and effective web presence. I am well versed in all five critical stages📈 of web development: from initial information gathering🕵 and strategic planning📋 to development👨‍💻, testing and ongoing delivery🚚 and maintenance🛠️.
